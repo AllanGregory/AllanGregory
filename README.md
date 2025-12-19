@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando com .NET C# e SqlServer
 - 🌱 Atualmente aprendendo sobre Kotlin, .Net5 e Javascript
-- ⚡ Curiosidades: profundamente apaixonado por viagens e perfumes
+- ⚡ Adoro viagens e perfumes
 
 <div>
   <a href="https://github.com/AllanGregory">
